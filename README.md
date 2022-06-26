@@ -1,4 +1,4 @@
-# boilerplate-vue
+# dashboard-starter-vue
 
 ## Project setup
 ```
